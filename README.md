@@ -13,4 +13,4 @@
 9. Associate descriptive activity names to the activities in the set. 
 10. Make the data more user-friendly by eliminating as many abbreviations as possible while adjusting for the spacing and eliminating the upper case.
 11. Create a second, independent tidy set with the average of each variable for each activity and each subject using package reshape2.
-12. Write t.e data in txt form. .
+12. Write the tidy data in txt form. .
