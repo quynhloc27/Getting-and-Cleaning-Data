@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-# How the script work:
+## How the script work:
 
 1. Download and unzip the original data
 2. Import the train and test data under the corresponding directory in R. 
